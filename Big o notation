@@ -1,0 +1,21 @@
+Time complexity
+
+Notation meaning - a series or system of symbols used to represent numbers,amount, pr elements in something such as music or maths
+Big o notation is used to describe performance of a algorithm
+-to find given alg is scalable or not
+-is this algo scale well as input grows
+-alg is runing fast in our laptops donot mean it perform well when we give a large data set
+-Big o notation symbol is O(n)
+
+
+what  is use of data structure?
+-certain operations can more or less costly depends on what data structure we use
+-for example
+-accessing a array elements by using index is super fast
+-but array is fixed sized if you want to constantly add ot remove items from them they have to get resized this will become costly as input grow very large
+-linked list grow and srink very quickly(resize) but accesing through index is too slow
+
+space complexity
+
+-nwe donot consider input size as O(n) in space complexity
+-we just consider extra space requeid for an alg
